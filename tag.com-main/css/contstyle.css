@@ -1,0 +1,59 @@
+/*Arquivo CSS*/
+
+nav {
+    background: black;
+    width: 100%;
+    position: relative;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    clear: both;
+}
+
+main {
+    width: 60%;
+    float: left;
+}
+
+aside {
+    width: 40%;
+    float: right;
+}
+
+.imgLogo {
+    position:absolute;
+    top: 1%;
+    width: 85%;
+}
+
+.carousel-auto {
+    padding-top: 130px; 
+    width: 100%; 
+    height: 15%;
+}
+
+
+.bgGrid {
+    background-color: black;
+    position: relative;
+    opacity: 75%;
+    top: -7%;
+    width: 100%;
+}
+
+.imgEditores {
+    border-radius: 50%;
+    width: 100%;
+}
+
+#meulink { color: rgb(255, 255, 255); padding-left: 2%; }
+
+#linkRed { color: rgb(255, 0, 0);}
+
+.textCenter {
+    text-align: center;
+}
+
+
